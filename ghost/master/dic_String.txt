@@ -29,7 +29,7 @@ Read me(&R)
 
 
 ＠homeurl
-https://raw.githubusercontent.com/pikkaflat/ukagaka/ichigomilk/master/
+https://raw.githubusercontent.com/pikkaflat/ichigomilk/master/
 
 ＃ネットワーク更新時にアクセスするアドレス。
 ＃フォルダ名を記述、最後に/をつけてください。例のような形になります。

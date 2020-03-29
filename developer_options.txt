@@ -1,3 +1,6 @@
 ghost/master/savedata.txt,noupdate
 shell/old/,nonar
 ghost/master/profile/,nonar,noupdate
+.gitignore,nonar,noupdate
+.gitattributes,nonar,noupdate
+.git/,nonar,noupdate
