@@ -1,0 +1,15 @@
+charset,Shift_JIS
+ 
+craftman,Pika
+craftmanw,ピッカー
+craftmanurl,
+homeurl,https://raw.githubusercontent.com/pikkaflat/ukagaka/ichigomilk/
+
+name,いちご牛乳
+type,ghost
+ 
+sakura.name,ミルク
+kero.name,ベリー
+
+icon,milkberry.ico 
+shiori,satori.dll

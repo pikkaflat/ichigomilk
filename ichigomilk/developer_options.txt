@@ -1,0 +1,3 @@
+ghost/master/savedata.txt,noupdate
+shell/old/,nonar
+ghost/master/profile/,nonar,noupdate
