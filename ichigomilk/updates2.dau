@@ -1,5 +1,5 @@
 developer_options.txt0707b88bbe79b21556cfefb5c8e61e68size=90
-ghost/master/descript.txt95408d8654a0f4d6505a012885166bf9size=258
+ghost/master/descript.txtb06711007b101635cc72631bc14bca66size=244
 ghost/master/dic_base.txt945cce0f821554e4e06b5b9798c0fb97size=6918
 ghost/master/dic_change.txt1b3c06f4af8e56e95fb9f36b007efe1asize=2318
 ghost/master/dic_event.txt54bd7743cf230577d4abef3a4ff886edsize=6726
@@ -15,6 +15,7 @@ ghost/master/saori/fill_desktop.dll74d823806e257920227131eac33aacd1size=24064
 ghost/master/saori/ssu.dll852efdc3ca56ba7a5d633d11467e4bc7size=87552
 ghost/master/satori.dll2b297f3968026c631b05e0ca240f2b4fsize=186880
 ghost/master/satori_conf.txt12839aee70cfe3962a67f938312e72b3size=2209
+ghost/master/satori_savebackup.txt597f316489e8cace2cd85186d6b40cfasize=359
 install.txt259ee47db9203d9c7af05900b1f9e596size=69
 readme.txtad9edc885510dc9279ae843c9b202d57size=667
 shell/master/descript.txtf463bed1c7abe9ccb546b227ac72983bsize=939
