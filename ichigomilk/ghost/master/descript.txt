@@ -2,7 +2,7 @@ charset,Shift_JIS
  
 craftman,Pika
 craftmanw,ピッカー
-homeurl,https://github.com/pikkaflat/ukagaka/tree/master/ichigomilk
+homeurl,https://github.com/pikkaflat/ukagaka/ichigomilk/master/
 
 name,いちご牛乳
 type,ghost
